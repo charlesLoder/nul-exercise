@@ -23,6 +23,13 @@ pip install -r /path/to/requirements.txt
 
 ## quick start
 
+Create an `.env` file:
+
+```.env
+AWS_ACCESS_KEY_ID=<YOUR_ID>
+AWS_SECRET_ACCESS_KEY=<YOUR_KEY>
+```
+
 Run
 
 ```bash
