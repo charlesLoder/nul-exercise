@@ -18,7 +18,7 @@ source ./venv/bin/activate
 
 **Install dependencies**
 ```bash
-pip install -r /path/to/requirements.txt
+pip install -r ./requirements.txt
 ```
 
 ## quick start
